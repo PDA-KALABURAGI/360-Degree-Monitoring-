@@ -13,9 +13,9 @@ RAM:2GB or more
 Disk space:20GB or more
 ## Setup
 1.Install mysql.
-2.Install php.
-3.Install zabbix agent server from zabbix website
-4.Restart zabbix agent
+1.Install php.
+1.Install zabbix agent server from zabbix website
+1.Restart zabbix agent
 ## what is zabbix?
 It is open source monitoring tool.this service uses Database that is hosted on zabbix server to store all the information
 that it receives from remote host.to monitor remote hosts you need to install zabbix agent which will then be linked with the main zabbix server.it also provides web-interface for the user to go through and resolve if any issues come up. 
